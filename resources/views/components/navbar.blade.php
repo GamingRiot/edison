@@ -5,7 +5,7 @@
                 <i class="fas fa-times"></i>
             </div>
 
-            <li><a href="WHATWEARE.html">MISSION</a></li>
+            <li><a href="/about">MISSION</a></li>
             <li><a href="ed_2.html">LINE UP</a></li>
             <!-- to stop the same effect on edison like others inline css is used,cause
                                                                                                                                                                                                                                                                                                             of highest priority -->
